@@ -2,7 +2,7 @@
 
 I am Armağan! 
 
-👩🏼‍💻 I’m a Software Engineer @Github and working on our design system [Primer](https://primer.style/)
+👩🏼‍💻 I’m a Software Engineer @GitHub and working on our design system [Primer](https://primer.style/)
 
 My professional interests are Design Systems, Compassionate design, Web accessibility and Developer Experience.
 
