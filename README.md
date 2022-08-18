@@ -1,7 +1,5 @@
 ## Hello there 👋 I am Armağan!
 
-<img src="broccolinisoup-octocat.png" width="200" height="200" alt="broccolinisoup's octocat image" />
-
 I have been developing web-based systems for over 10 years now and within the years of experience, I have found a sweet spot that combines my technical skills with my diversity and inclusion advocacy and it is creating **inclusive, accessible and ethical software.** One great way of achiving this objective is through design systems especially when considering the system thinking philosophy always helped me comprehend "the big picture" hence make sense of things. So, pursuing this passion led me here, to [GitHub](https://github.com), where I work as a software engineer on [Primer Design System](https://primer.style) ✨ 
 
 
